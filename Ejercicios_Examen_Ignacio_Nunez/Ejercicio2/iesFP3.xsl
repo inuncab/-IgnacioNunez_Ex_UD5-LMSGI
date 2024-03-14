@@ -4,7 +4,7 @@
   <xsl:template match="/">
     <html>
       <body>
-        <h2>Nombres de los Ciclos: Ignacio Nuñez</h2>
+        <h2>Nombre y apellidos Ignacio Nuñez</h2>
         <ul>
           <xsl:apply-templates select="//ciclo"/>
         </ul>
